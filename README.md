@@ -1,5 +1,7 @@
 # Geometry
 
+## Problem Statement
+
 As a fan of geometry,
 I want to model a line based on points consisting of (x, y) coordinates using the cartesian system,
 so that I can calculate its length

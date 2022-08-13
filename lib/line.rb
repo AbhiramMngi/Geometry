@@ -10,5 +10,9 @@ module Geometry
       @point_1 = point_1
       @point_2 = point_2
     end
+
+    def calculate_length
+      return @point_1.distance_from(@point_2)
+    end
   end
 end
